@@ -1,0 +1,12 @@
+﻿  Stack.cpp
+C:\Users\User\source\repos\Stack\Stack\Stack.cpp(10,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\Stack\Stack\Stack.cpp(27,21): error C2039:  peek: не является членом "std::stack<int,std::deque<_Ty,std::allocator<_Ty>>>"
+C:\Users\User\source\repos\Stack\Stack\Stack.cpp(27,21): error C2039:         with
+C:\Users\User\source\repos\Stack\Stack\Stack.cpp(27,21): error C2039:         [
+C:\Users\User\source\repos\Stack\Stack\Stack.cpp(27,21): error C2039:             _Ty=int
+C:\Users\User\source\repos\Stack\Stack\Stack.cpp(27,21): error C2039:         ]
+C:\Users\User\source\repos\Stack\Stack\Stack.cpp(9): message :   см. объявление "std::stack<int,std::deque<_Ty,std::allocator<_Ty>>>"
+C:\Users\User\source\repos\Stack\Stack\Stack.cpp(9): message :         with
+C:\Users\User\source\repos\Stack\Stack\Stack.cpp(9): message :         [
+C:\Users\User\source\repos\Stack\Stack\Stack.cpp(9): message :             _Ty=int
+C:\Users\User\source\repos\Stack\Stack\Stack.cpp(9): message :         ]
