@@ -1,0 +1,10 @@
+﻿  OOP1.cpp
+C:\Users\User\source\repos\OOP1\OOP1\OOP1.cpp(6,10): warning C4244:  инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP1\OOP1\OOP1.cpp(10,21): warning C4244:  return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP1\OOP1\OOP1.cpp(19,7): warning C4101:  go: неиспользованная локальная переменная
+C:\Users\User\source\repos\OOP1\OOP1\OOP1.cpp(48,33): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\OOP1\OOP1\OOP1.cpp(59,33): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\OOP1\OOP1\OOP1.cpp(68,36): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP1\OOP1\OOP1.cpp(68,33): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\OOP1\OOP1\OOP1.cpp(68,32): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+  OOP1.vcxproj -> C:\Users\User\source\repos\OOP1\Debug\OOP1.exe
