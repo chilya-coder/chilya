@@ -1,5 +1,7 @@
 ﻿#include <iostream>
-#include <cmath>
+//#include <cmath>
+#define _USE_MATH_DEFINES
+#include <math.h>
 using namespace std;
 
 float calculate (int a, int b, int c){ //за тремя сторонами
@@ -7,6 +9,7 @@ float calculate (int a, int b, int c){ //за тремя сторонами
 	return sqrt(p * ((p - a) * (p - b) * (p - c)));
 }
 float calculate(int a, int b, float c) { // за двумя сторонами и углом между ними
+	c = c * M_PI / 180;
 	return 0.5 * a * b * sin (c) ;
 }
 
