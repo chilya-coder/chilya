@@ -18,7 +18,9 @@ int wish()
 	int desire;
 	bool go;
 	cout << "Желаете продолжить? 1 - да, 0 - нет\n";
-	cin >> desire;
+	do {
+		cin >> desire;
+	} while (desire != 1 || desire != 0);
 	return desire;
 }
 
