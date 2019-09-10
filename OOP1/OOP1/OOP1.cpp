@@ -27,7 +27,8 @@ int main()
 	bool go = true;
 	setlocale(LC_ALL, "rus");
 	int choice;
-	int a, b, c, triangle_square_1, triangle_square_2, rectangle_square;
+	int a, b, c;
+	float triangle_square_1, triangle_square_2, rectangle_square;
 	float degree;
 	do{
 		system("cls");
