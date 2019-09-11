@@ -1,0 +1,5 @@
+﻿  queuerelease.cpp
+C:\Users\User\source\repos\queuerelease\queuerelease\queuerelease.cpp(23,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\queuerelease\queuerelease\queuerelease.cpp(38,7): warning C4551:  в вызове функции отсутствует список аргументов
+C:\Users\User\source\repos\queuerelease\queuerelease\queuerelease.cpp(19): warning C4715:  check: значение возвращается не при всех путях выполнения
+  queuerelease.vcxproj -> C:\Users\User\source\repos\queuerelease\Debug\queuerelease.exe
