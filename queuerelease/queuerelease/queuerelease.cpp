@@ -1,7 +1,6 @@
 #include <iostream>
 #include <ctime>
 #include <queue>
-#include <cmath>
 using namespace std;
 
 bool check(int a) { 
