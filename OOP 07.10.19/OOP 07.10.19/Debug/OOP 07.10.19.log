@@ -1,0 +1,5 @@
+﻿  Matrixx.cpp
+  OOP 07.10.19.cpp
+  Создание кода...
+C:\Users\User\source\repos\OOP 07.10.19\OOP 07.10.19\Matrixx.cpp(33,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OOP 07.10.19.vcxproj -> C:\Users\User\source\repos\OOP 07.10.19\Debug\OOP 07.10.19.exe
